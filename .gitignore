@@ -1,3 +1,7 @@
+auth.json
+dump.json
+dump*.json
+
 # Logs
 logs
 *.log

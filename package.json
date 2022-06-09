@@ -1,0 +1,22 @@
+{
+  "name": "ents-temperature-logger",
+  "version": "1.0.0",
+  "description": "Pulls temperature data off a RabbitMQ queue and converts it to a CSV. Makes several assumptions about how the data is structured.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turt2live/ents-temperature-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turt2live/ents-temperature-logger/issues"
+  },
+  "homepage": "https://github.com/turt2live/ents-temperature-logger#readme",
+  "dependencies": {
+    "amqplib": "^0.10.0"
+  }
+}
