@@ -1,6 +1,7 @@
 auth.json
 dump.json
 dump*.json
+dump.csv
 
 # Logs
 logs
